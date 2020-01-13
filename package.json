@@ -1,0 +1,28 @@
+{
+  "name": "cerebrovinny_blogbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerebrovinny/cerebrovinny_blogbackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cerebrovinny/cerebrovinny_blogbackend/issues"
+  },
+  "homepage": "https://github.com/Cerebrovinny/cerebrovinny_blogbackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.0",
+    "@babel/node": "^7.8.0",
+    "@babel/preset-env": "^7.8.2"
+  }
+}
